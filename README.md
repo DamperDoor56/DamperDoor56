@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamperDoor56
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Full-stack development in Linkedln Learning, App Academy Open & Free Code Camp!
+- 👀 I’m interested in Web, Software Development and Physics
+- 🌱 I’m currently learning Full-stack development in Linkedln Learning, Coursera,App Academy Open & Free Code Camp!
 - 💞️ I’m looking to collaborate on Web development proyects
 - 📫 How to reach me https://www.linkedin.com/in/ludmila-rocio-lopez-082b75218/
 

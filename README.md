@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DamperDoor56
+- 👋 Hi, I’m Ludmi
 - 👀 I’m interested in Web, Software Development and Physics
 - 🌱 I’m currently learning Full-stack development in Linkedln Learning, Coursera,App Academy Open & Free Code Camp!
 - 💞️ I’m looking to collaborate on Web development proyects

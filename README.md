@@ -1,7 +1,7 @@
 # Hi, I’m Ludmi
  #### I’m interested in Web and Software Development, Math and Physics. I’m currently learning Front-End and Back-End Development in Linkedln Learning, Coursera, App Academy Open & Free Code Camp!.
- ## In Front-End I work with:
- <li>Html</li>
+ ## These are the technologies I work With
+ <li>Html, WordPress</li>
  <li>CSS, Saas, Bootstrap and Bulma</li>
  <li>JavaScript, JQuery, React, Redux and Angular </li>
  

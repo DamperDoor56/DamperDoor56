@@ -1,6 +1,10 @@
-- #Hi, I’m Ludmi
- ##I’m interested in Web, Software Development and Physics I’m currently learning Full-stack development in Linkedln Learning, Coursera,App Academy Open & Free Code Camp!. I’m looking foward to collaborate on Web development proyects. How to reach me https://www.linkedin.com/in/ludmila-rocio-lopez-082b75218/
-
+# Hi, I’m Ludmi
+ #### I’m interested in Web and Software Development, Math and Physics. I’m currently learning Front-End and Back-End Development in Linkedln Learning, Coursera, App Academy Open & Free Code Camp!.
+ ## In Front-End I work with:
+ <li>Html</li>
+ <li>CSS, Saas, Bootstrap and Bulma</li>
+ <li>JavaScript, JQuery, React, Redux and Angular </li>
+ 
 <!---
 DamperDoor56/DamperDoor56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

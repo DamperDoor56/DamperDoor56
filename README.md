@@ -1,11 +1,10 @@
 # Hi, I’m Ludmi!
- #### I’m interested in Web and Software Development, Math and Physics. I’m currently learning Front-End and Back-End Development in Linkedln Learning, Coursera, App Academy Open & Free Code Camp!.
+ #### I’m a web developer who lives in Argentina. My interests involves front-end development, UX/UI design, back-end development, math, and physiscs. I currently learning in Free Code Camp!, App Academy, Codecademy, and Youtube. I'd love to work with you and your team!
+ ### I currently consider myself a Front-End developer with knowledge in Data Science
  ## These are the technologies I work With
  <li>Html, WordPress</li>
  <li>CSS, Saas, Bootstrap and Bulma</li>
  <li>JavaScript, JQuery, React, Redux and Angular </li>
+ <li>MongoDB, PostgreSQL, MySQL, Mongoose and PHP. </li>
  
-<!---
-DamperDoor56/DamperDoor56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

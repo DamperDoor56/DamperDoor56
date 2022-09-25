@@ -3,7 +3,7 @@
  ## These are the technologies I work With
  <li>Html, learning WordPress</li>
  <li>CSS, Saas, Bootstrap and I'm learning Bulma</li>
- <li>JavaScript, JQuery, React, Redux and I'm learning Angular and Next.js</li>
- <li>MongoDB, PostgreSQL, MySQL, Mongoose and I'm learning backend with PHP. </li>
+ <li>JavaScript, JQuery, Angular, React, Redux and I'm learning and Next.js and React Native</li>
+ <li>Node.js, Express, MongoDB, PostgreSQL, MySQL, Mongoose and I'm learning PHP. </li>
  
 

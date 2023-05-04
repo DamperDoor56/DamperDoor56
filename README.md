@@ -1,9 +1,22 @@
-# Hi, I’m Ludmi!
- #### I’m a web developer who lives in Argentina. My interests involves front-end development, UX/UI design, back-end development, math, and physiscs. I currently learning in Free Code Camp!, App Academy Open, Codecademy, and Youtube. I'd love to work with you and your team!
- ## These are the technologies I work With
- <li>Html, learning WordPress</li>
- <li>CSS, Saas, Bootstrap and I'm learning Bulma</li>
- <li>JavaScript, JQuery, Angular, React, Redux and I'm learning and Next.js and React Native</li>
- <li>Node.js, Express, MongoDB, PostgreSQL, MySQL, Mongoose and I'm learning PHP. </li>
+# Hi there! :wave:
+ I'm a passionate software developer :technologist: who likes to learn a lot. <br>
+ I am constantly learning new technologies while deepening my previus knowledge.<br>
+ I'm currently happily working at Elaniin, where I specialize in React Development.
+ 
+ ## Tech I use :rocket:
+ ### For Work or Web Dev :construction_worker:
+ <ul>
+   <li>ReactJS, NextJS, AngularJS, Redux</li>
+   <li>CSS, Saas, Bootstrap, Tailwind, Styled Components, Material UI</li>
+   <li>Typescript, Javascript</li>
+   <li>Node.js, Express, EJS, PHP, Laravel.</li>
+   <li>MongoDB, PostgreSQL, MySQL, Mongoose.</li>
+</ul>
+
+ ### As a hobby :tada:
+ <ul>
+   <li>C#</li>
+   <li>Godot</li>
+</ul>
  
 

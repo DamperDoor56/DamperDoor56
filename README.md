@@ -15,8 +15,7 @@
 
  ### As a hobby :tada:
  <ul>
-   <li>C#</li>
-   <li>Godot</li>
+   <li>C# and GDScript With Godot</li>
 </ul>
  
 

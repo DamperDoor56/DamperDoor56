@@ -1,7 +1,6 @@
 # Hi there! :wave:
  I'm a passionate software developer :technologist: who likes to learn a lot. <br>
  I am constantly learning new technologies while deepening my previus knowledge.<br>
- I'm currently working in a software company, where I specialize in React Development.
  
  ## Tech I use :rocket:
  ### For Work or Web Dev :construction_worker:

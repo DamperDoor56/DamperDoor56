@@ -8,7 +8,7 @@
    <li>ReactJS, NextJS, AngularJS, Redux</li>
    <li>CSS, Saas, Bootstrap, Tailwind, Styled Components, Material UI</li>
    <li>Typescript, Javascript</li>
-   <li>Node.js, Express, EJS, PHP, Laravel.</li>
+   <li>Node.js, Express, EJS, PHP, Laravel, NestJS.</li>
    <li>MongoDB, PostgreSQL, MySQL, Mongoose.</li>
 </ul>
 

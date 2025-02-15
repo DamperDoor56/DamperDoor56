@@ -41,7 +41,7 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 - **Liquid (Shopify)**
 
 #### 🎮 Game Development
-- ** GDScript / Godot Engine**
+- **GDScript / Godot Engine**
 
 #### ☁️ DevOps & Cloud
 - **AWS (Lambda, API Gateway, ECR, S3, CloudWatch, SES, SNS)**

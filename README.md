@@ -1,7 +1,7 @@
 # Hi, Nice to meet you!
 
 ### 🚀 About Me
-I'm a developer passionate about technology, automation, and problem-solving. I love working with APIs, integrating challenging servies, and optimizing processes with AI.
+I'm a developer passionate about technology, automation, and problem-solving. I love working with APIs, integrating challenging services, and optimizing processes with AI.
 I'm always looking for new ways to improve efficiency in my code.
 
 Additionally, I really like video games 🎮 and I enjoy exploring game development as well in my free time, or messing a bit with new technology.

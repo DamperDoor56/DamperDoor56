@@ -13,7 +13,7 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 - **Smart agents for all types of needs 🤖** 
 - **Advanced integrations with Shopify & Salesforce** 🛍️📊
 - **API optimization for better scalability** 🚀
-- **Game development with Godot Engine** 🎮
+- **A simple 2D platformer in Godot Engine** 🎮
 - **A habit tracker app on React Native** 📱
 
 <hr>

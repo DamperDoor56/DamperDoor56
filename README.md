@@ -1,7 +1,8 @@
 # Hi, Nice to meet you!
 
 ### 🚀 About Me
-I'm a developer passionate about technology, automation, and problem-solving. I love *challenges*, finding out that there's no *impossible* in software fascinates me.
+I'm a developer passionate about technology, automation, and problem-solving. I love **challenges**, finding out that there's no **impossible** in software fascinates me.
+
 Most of my involves APIs, integrating services, and optimizing processes with AI. I'm always looking for new ways to improve efficiency in my code.
 But this year, my goal is to make open source contributions.
 

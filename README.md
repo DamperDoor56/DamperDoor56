@@ -4,7 +4,8 @@
 I'm a developer passionate about technology, automation, and problem-solving. I love **challenges**, finding out that there's no **impossible** in software fascinates me.
 
 Most of my work involves APIs, integrating services, and optimizing processes with AI. I'm always looking for new ways to improve efficiency in my code.
-But this year, my goal is to make open source contributions.
+
+But this year, my goal is to make open source contributions 
 
 Additionally, I really like video games 🎮 and I enjoy exploring game development as well in my free time, or messing a bit with new technology.
 
@@ -17,6 +18,7 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 - **API optimization for better scalability** 🚀
 - **A simple 2D platformer in Godot Engine** 🎮
 - **A habit tracker app on React Native** 📱
+- **Hopefully contribuite to an open source project** :globe_with_meridians:
 
 <hr>
 

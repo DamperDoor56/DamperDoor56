@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a developer passionate about technology, automation, and problem-solving. I love **challenges**, finding out that there's no **impossible** in software fascinates me.
 
-Most of my work involves APIs, integrating services, and optimizing processes with AI. I'm always looking for new ways to improve efficiency in my code.
+Most of my work involves APIs, integrating services, and optimizing processes. I'm always looking for new ways to improve efficiency in my code.
 
 But this year, my goal is to make open source contributions 
 
@@ -12,7 +12,7 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 <hr>
 
 ### 🛠️ What I'm Working On
-- **AI-powered process automation** 🧠🤖
+- ** Process automation** 🧠🤖
 - **Smart agents for all types of needs 🤖** 
 - **Advanced integrations with Shopify & Salesforce** 🛍️📊
 - **API optimization for better scalability** 🚀

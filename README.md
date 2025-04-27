@@ -11,14 +11,17 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 
 <hr>
 
-### 🛠️ What I'm Working On
-- ** Process automation** 🧠🤖
-- **Smart agents for all types of needs 🤖** 
-- **Advanced integrations with Shopify & Salesforce** 🛍️📊
-- **API optimization for better scalability** 🚀
+
+### 🎮 Personal projects
 - **A simple 2D platformer in Godot Engine** 🎮
 - **A habit tracker app on React Native** 📱
 - **Hopefully contribuite to an open source project** :globe_with_meridians:
+
+### 🛠️ Work
+- **Process automation** 🧠🤖
+- **Smart agents for all types of needs 🤖** 
+- **Advanced integrations with Shopify & Salesforce** 🛍️📊
+- **API optimization for better scalability** 🚀
 
 <hr>
 

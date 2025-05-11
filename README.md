@@ -1,13 +1,15 @@
 # Hi, Nice to meet you!
 
 ### 🚀 About Me
-I'm a developer passionate about technology, automation, and problem-solving. I love **challenges**, finding out that there's no **impossible** in software fascinates me.
+I'm a self-taught developer passionate about math, FOSS, and problem-solving.
 
-Most of my work involves APIs, integrating services, and optimizing processes. I'm always looking for new ways to improve efficiency in my code.
+Most of my day work involves APIs, integrating services, and optimizing processes. I'm always looking for new ways to improve efficiency in my code.
 
 But this year, my goal is to make open source contributions 
 
-Additionally, I really like video games 🎮 and I enjoy exploring game development as well in my free time, or messing a bit with new technology.
+Additionally, I really like video games 🎮 and I enjoy exploring game development as well in my free time.
+
+![GamerPenguin](https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif)
 
 <hr>
 
@@ -31,44 +33,6 @@ Additionally, I really like video games 🎮 and I enjoy exploring game developm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamperDoor56&layout=compact&theme=radical)
 
 <hr>
-
-### 🛠️ Tech
-
-#### 💻 Backend
-- **Node.js / Express.js**
-- **Python / Flask / Django**
-- **AWS Lambda**
-- **Docker / Docker Compose**
-  
-#### 🎨 Frontend
-- **React.js / Next.js**
-- **React Native**
-- **TypeScript**
-- **TailwindCSS**
-- **Liquid (Shopify)**
-
-#### 🎮 Game Development
-- **GDScript / Godot Engine**
-
-#### ☁️ DevOps & Cloud
-- **AWS (Lambda, API Gateway, ECR, S3, CloudWatch, SES, SNS)**
-- **Google Cloud (Vertex AI, Firebase, Google Calendar API)**
-- **GitHub Actions**
-- **Serverless Framework**
-
-#### 📰 Databases
-- **SQL Server**
-- **PostgreSQL**
-- **MySQL**
-- **DynamoDB**
-
-#### 📌 Integrations & APIs
-- **Custom APIs**
-- **Twilio (SMS & WhatsApp)**
-- **SendGrid (Emails)**
-- **Salesforce**
-- **Shopify API**
-- **Google Calendar API**
 
 ### 📬 Contact
 - 📧 **Email:** ludmit@outlook.com
